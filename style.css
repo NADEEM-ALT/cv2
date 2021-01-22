@@ -1,0 +1,98 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap'); */
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Yusei Magic', sans-serif;
+  background-image: url('background.jpg');
+  color: white;
+
+
+}
+.middle-container img {
+  border-radius: 20%;
+  height: 200px;
+}
+
+h1{
+  color: #66bfbf;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66bfbf;
+  font-size: 3.625rem;
+  font-family: 'Sacramento', cursive
+}
+.top-container{
+position: relative;
+padding-top: 150px;
+}
+#skill-img{
+      border-radius: 10%;
+      width: 30%;
+      float: left;
+      margin: 0 20px 0 20px;
+}
+
+
+.profile{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  float: left;
+
+}
+.trgpara{
+  clear: both;
+}
+.top-cloud{
+  padding: 2px;
+  position: absolute;
+  right: 350px;
+  top:50px;
+}
+.buttom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 20px;
+  padding: 0;
+
+}
+
+.firstcontainer{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  /* border: 10px solid green;
+  padding: 5px;
+  margin: 5px;
+  position: absolute;
+  top: 320px;
+  left: 130px; */
+
+
+
+
+}
+.secondcontainer{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 5px;
+  /* position: absolute;
+  left: 20px;
+  top: 200px;
+  border: 10px solid green;
+  padding: 5px; */
+}
